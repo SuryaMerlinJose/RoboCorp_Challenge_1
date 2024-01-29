@@ -1,0 +1,201 @@
+Sales Order,Customer Name,Order Date,Order Status,Expected Ship Date,Delivery Method
+SO-10062,Filmore Farndale,2020-11-07,Pending,2021-08-10,Flight
+SO-10137,Ingmar Yitzovitz,2021-02-04,Delivery Outstanding,2021-08-07,Flight
+SO-10129,Abner Wytchard,2021-05-10,Invoice Sent,2021-08-07,Local
+SO-10034,Bette Cords,2020-10-05,Draft,2021-08-07,Road
+SO-10196,Fair Groves,2020-12-05,Delivery Outstanding,2021-08-06,Road
+SO-10106,Eada Barz,2021-03-15,Delivery Outstanding,2021-08-05,Road
+SO-10021,Hadley Fishley,2021-04-19,Draft,2021-08-06,Road
+SO-10117,Nikolaos Kiera,2021-03-18,Pending,2021-08-09,Local
+SO-10018,Cobbie Lerigo,2020-12-22,Draft,2021-08-08,Road
+SO-10039,Kelcie Scolding,2020-08-28,Delivery Outstanding,2021-08-09,Road
+SO-10184,Kristine Stanyan,2020-09-11,Delivery Outstanding,2021-08-11,Road
+SO-10049,Chase Roostan,2021-07-24,Draft,2021-08-10,Local
+SO-10169,Kearney Gaynor,2020-12-28,Draft,2021-08-11,Flight
+SO-10145,Alayne Krikorian,2020-12-25,Delivery Outstanding,2021-08-11,Road
+SO-10080,Concordia Goodrich,2020-09-02,Pending,2021-08-11,Road
+SO-10094,Louella Beckey,2021-04-12,Draft,2021-08-06,Local
+SO-10001,Ivar McCluskey,2020-10-07,Pending,2021-08-08,Road
+SO-10022,Zebulon Loughlin,2021-03-05,Pending,2021-08-08,Local
+SO-10134,Bearnard Battie,2021-06-01,Draft,2021-08-07,Flight
+SO-10056,Tailor Currin,2021-02-10,Delivery Outstanding,2021-08-09,Local
+SO-10037,Darleen Matskiv,2020-10-09,Confirmed,2021-08-06,Road
+SO-10152,Christiana Sitford,2020-11-11,Draft,2021-08-09,Road
+SO-10007,Estrellita Scare,2020-11-02,Invoice Sent,2021-08-11,Local
+SO-10050,Raine Cully,2021-02-17,Draft,2021-08-05,Local
+SO-10078,Ronnie Ivannikov,2020-11-09,Draft,2021-08-08,Road
+SO-10016,Kyrstin Tissington,2021-04-01,Draft,2021-08-04,Flight
+SO-10090,Holmes Barbosa,2021-05-09,Pending,2021-08-09,Flight
+SO-10127,Fay Simonato,2021-03-12,Delivery Outstanding,2021-08-05,Flight
+SO-10003,Elmer Munford,2020-10-23,Invoice Sent,2021-08-10,Local
+SO-10066,Lurette Asaaf,2020-08-15,Delivery Outstanding,2021-08-09,Road
+SO-10064,Melisenda Guiet,2021-02-09,Pending,2021-08-10,Local
+SO-10170,Jae Bowdler,2021-05-15,Delivery Outstanding,2021-08-07,Flight
+SO-10122,Felicia Pauncefort,2021-06-11,Draft,2021-08-10,Flight
+SO-10101,Perri Marc,2021-07-23,Delivery Outstanding,2021-08-08,Road
+SO-10108,Daffie Aldwich,2021-01-05,Pending,2021-08-05,Flight
+SO-10013,Adolphus MacGray,2020-10-30,Pending,2021-08-10,Local
+SO-10191,Alta Pendlington,2021-05-09,Pending,2021-08-06,Flight
+SO-10181,Cyrillus Ludee,2021-04-17,Draft,2021-08-04,Local
+SO-10030,Wayland Broderick,2021-01-18,Draft,2021-08-11,Road
+SO-10040,Janice Shannahan,2021-04-12,Pending,2021-08-08,Road
+SO-10082,Charleen Savil,2020-09-20,Delivery Outstanding,2021-08-06,Flight
+SO-10109,Ashlie McIlroy,2020-09-01,Draft,2021-08-08,Local
+SO-10072,Dianne Leile,2020-12-06,Draft,2021-08-05,Flight
+SO-10151,Ailey Sarsons,2020-10-06,Draft,2021-08-09,Local
+SO-10120,Bruce Crippen,2021-05-13,Delivery Outstanding,2021-08-05,Flight
+SO-10100,Fayre Ivankovic,2021-05-29,Draft,2021-08-06,Road
+SO-10176,Dena Esser,2020-08-08,Pending,2021-08-04,Flight
+SO-10070,Brian Carnew,2021-07-24,Pending,2021-08-09,Local
+SO-10047,Kassie Duffill,2020-12-25,Pending,2021-08-05,Flight
+SO-10119,Emmalyn Coling,2020-09-19,Pending,2021-08-10,Local
+SO-10187,Lanni Harley,2021-01-25,Pending,2021-08-04,Flight
+SO-10194,Amalea Skyrme,2020-11-24,Draft,2021-08-06,Road
+SO-10154,Beilul Blune,2020-08-19,Draft,2021-08-04,Local
+SO-10028,Caro Bottrell,2021-07-15,Confirmed,2021-08-11,Local
+SO-10045,Krishna Melwall,2021-07-04,Invoice Sent,2021-08-08,Road
+SO-10024,Holmes Brislan,2020-08-16,Draft,2021-08-07,Flight
+SO-10171,Arlan Penfold,2021-01-28,Pending,2021-08-09,Flight
+SO-10183,Arda Wassung,2020-08-10,Draft,2021-08-04,Local
+SO-10010,Sheila Tommis,2020-12-05,Draft,2021-08-07,Road
+SO-10093,Maryjo Gronou,2021-07-26,Confirmed,2021-08-07,Local
+SO-10097,Laverne Woolgar,2021-06-04,Confirmed,2021-08-05,Flight
+SO-10065,Gary Ogelbe,2020-08-26,Draft,2021-08-10,Local
+SO-10133,Gunar Dumbreck,2021-07-08,Draft,2021-08-05,Flight
+SO-10019,Lewie Lung,2021-02-28,Draft,2021-08-04,Road
+SO-10043,Doll Suter,2020-10-30,Draft,2021-08-09,Local
+SO-10020,Gizela Fazackerley,2020-08-11,Draft,2021-08-06,Local
+SO-10139,Leoline Byneth,2021-06-12,Pending,2021-08-05,Local
+SO-10105,Ermina Bedingfield,2021-06-13,Draft,2021-08-04,Flight
+SO-10055,Farr Ubanks,2020-11-11,Draft,2021-08-04,Road
+SO-10161,Orv Plevey,2020-10-21,Draft,2021-08-10,Road
+SO-10123,Kynthia Lockier,2021-03-21,Pending,2021-08-11,Road
+SO-10038,Bard Sugden,2020-10-30,Draft,2021-08-11,Road
+SO-10086,Flss Novis,2021-05-25,Pending,2021-08-11,Local
+SO-10136,Dell Wanek,2020-10-28,Pending,2021-08-11,Flight
+SO-10158,Grata Aarons,2020-09-30,Confirmed,2021-08-06,Flight
+SO-10140,Morgen Le Strange,2021-02-07,Confirmed,2021-08-07,Flight
+SO-10044,Christie Ginley,2021-02-27,Draft,2021-08-11,Flight
+SO-10112,Andros Newlyn,2021-07-23,Confirmed,2021-08-09,Road
+SO-10006,Wang Maggill'Andreis,2020-09-27,Draft,2021-08-10,Flight
+SO-10143,Daphna Bartoszewicz,2020-08-21,Draft,2021-08-04,Flight
+SO-10000,Emmerich Keenleyside,2021-06-26,Pending,2021-08-05,Local
+SO-10110,Josi Berndsen,2020-08-18,Pending,2021-08-04,Flight
+SO-10179,Meir Beardshaw,2021-03-22,Draft,2021-08-08,Flight
+SO-10128,Jakie Heymann,2020-09-19,Draft,2021-08-11,Road
+SO-10084,Christal Worthington,2020-11-13,Delivery Outstanding,2021-08-04,Flight
+SO-10135,Lurline Capron,2021-03-05,Confirmed,2021-08-09,Local
+SO-10198,Sigfrid Vango,2021-01-12,Draft,2021-08-04,Flight
+SO-10141,Lilas Larciere,2021-06-14,Confirmed,2021-08-06,Road
+SO-10121,Ahmed Casoni,2021-02-14,Pending,2021-08-07,Local
+SO-10053,Fremont Rohfsen,2021-02-09,Pending,2021-08-04,Flight
+SO-10102,Jody Spohr,2021-02-12,Confirmed,2021-08-11,Flight
+SO-10130,Gabrila Okenden,2020-08-30,Draft,2021-08-04,Flight
+SO-10174,Belle Matuska,2020-11-13,Confirmed,2021-08-07,Flight
+SO-10068,Filippa Perone,2021-03-07,Draft,2021-08-05,Local
+SO-10197,Tory Scanlon,2021-05-18,Pending,2021-08-10,Road
+SO-10092,Mikkel Loveguard,2021-07-20,Draft,2021-08-10,Flight
+SO-10042,Vinnie Faire,2020-08-04,Draft,2021-08-10,Road
+SO-10193,Jojo Losseljong,2021-02-26,Pending,2021-08-08,Flight
+SO-10116,Lynnea Slatford,2020-11-10,Delivery Outstanding,2021-08-10,Road
+SO-10073,Terrye Pedrick,2020-08-21,Invoice Sent,2021-08-06,Flight
+SO-10160,Meryl Starton,2021-04-11,Delivery Outstanding,2021-08-10,Flight
+SO-10157,Patin McIlmurray,2021-06-12,Delivery Outstanding,2021-08-05,Local
+SO-10002,Magda Lawee,2020-11-20,Pending,2021-08-10,Local
+SO-10168,Orion Clementel,2021-04-11,Draft,2021-08-06,Road
+SO-10111,Adriana Rummins,2021-01-13,Delivery Outstanding,2021-08-06,Road
+SO-10195,Adena Kaas,2021-01-09,Draft,2021-08-08,Flight
+SO-10060,Shanda Legendre,2021-04-01,Draft,2021-08-09,Road
+SO-10052,Hobie Chalke,2020-12-25,Confirmed,2021-08-10,Local
+SO-10077,Marlo Driver,2021-03-08,Delivery Outstanding,2021-08-09,Flight
+SO-10103,Sly Sewall,2021-01-24,Confirmed,2021-08-09,Road
+SO-10113,Rolando Collecott,2020-08-05,Pending,2021-08-11,Flight
+SO-10167,Renelle Lacroux,2021-05-28,Pending,2021-08-07,Flight
+SO-10005,Bernadette Luckey,2021-01-21,Delivery Outstanding,2021-08-10,Local
+SO-10023,Scarface Grimble,2020-10-10,Draft,2021-08-10,Road
+SO-10015,Gertruda Richarz,2021-05-15,Draft,2021-08-10,Local
+SO-10081,Mayne Seyffert,2021-04-10,Confirmed,2021-08-09,Flight
+SO-10054,Israel Atwool,2020-08-12,Draft,2021-08-08,Road
+SO-10163,Dee Valencia,2020-10-10,Delivery Outstanding,2021-08-05,Flight
+SO-10036,Stacia Edgerly,2021-03-17,Pending,2021-08-09,Local
+SO-10014,Dulcia Harkess,2021-01-29,Draft,2021-08-10,Road
+SO-10095,Jori Stollmeier,2021-03-11,Draft,2021-08-08,Road
+SO-10059,Sheelagh Chestnutt,2021-05-25,Delivery Outstanding,2021-08-09,Road
+SO-10138,Bruce McAsgill,2020-09-18,Draft,2021-08-11,Road
+SO-10199,Ludovico Canfer,2021-04-18,Delivery Outstanding,2021-08-10,Road
+SO-10164,Larry Spoole,2020-10-05,Pending,2021-08-11,Road
+SO-10172,Hans Weth,2020-11-28,Draft,2021-08-11,Road
+SO-10177,Ardys Braund,2021-07-31,Pending,2021-08-04,Local
+SO-10071,Jennifer Tzuker,2021-05-30,Pending,2021-08-11,Flight
+SO-10148,Nalani Harborow,2021-05-22,Pending,2021-08-09,Flight
+SO-10096,Fan Tumayan,2021-06-05,Pending,2021-08-04,Road
+SO-10166,Pepillo Nealey,2021-03-13,Pending,2021-08-07,Local
+SO-10125,Ken Barles,2020-12-23,Pending,2021-08-06,Road
+SO-10057,Mylo Dyzart,2020-12-10,Pending,2021-08-07,Flight
+SO-10069,Alika Staner,2021-04-02,Pending,2021-08-11,Local
+SO-10048,Annissa Cardozo,2021-06-11,Draft,2021-08-04,Flight
+SO-10099,Brody Massey,2020-11-21,Draft,2021-08-07,Local
+SO-10147,Jayne Mawby,2021-04-18,Pending,2021-08-10,Local
+SO-10153,Jorry Aronoff,2021-03-10,Pending,2021-08-10,Road
+SO-10011,Devi Linder,2020-08-21,Pending,2021-08-09,Road
+SO-10185,Tyson Thatcher,2021-01-23,Confirmed,2021-08-05,Road
+SO-10104,Marilin Astill,2021-02-04,Delivery Outstanding,2021-08-07,Road
+SO-10075,Olag Nutman,2021-01-21,Delivery Outstanding,2021-08-09,Flight
+SO-10175,Pattin Gorringe,2021-03-23,Pending,2021-08-11,Local
+SO-10046,Lianne Landrieu,2021-05-20,Draft,2021-08-10,Local
+SO-10149,Marice Findon,2021-07-22,Pending,2021-08-07,Local
+SO-10173,Charil Jeeks,2021-03-16,Confirmed,2021-08-06,Road
+SO-10126,Nathalia Bolf,2020-09-24,Draft,2021-08-05,Flight
+SO-10089,Wandie Dmitriev,2020-11-30,Draft,2021-08-10,Flight
+SO-10026,Paule Sparry,2021-05-12,Draft,2021-08-08,Road
+SO-10079,Agata Woolliams,2021-05-16,Invoice Sent,2021-08-06,Road
+SO-10027,Jennilee Woodison,2021-03-13,Pending,2021-08-11,Flight
+SO-10131,Cory Dufore,2021-04-05,Delivery Outstanding,2021-08-04,Local
+SO-10091,Myrtle Espada,2021-06-11,Confirmed,2021-08-08,Flight
+SO-10114,Laurene Roberds,2021-02-19,Draft,2021-08-04,Local
+SO-10032,Cord Worsnop,2021-07-17,Confirmed,2021-08-11,Local
+SO-10058,Vladamir Wixey,2021-07-26,Confirmed,2021-08-04,Local
+SO-10012,Libbi Tuxsell,2021-05-19,Draft,2021-08-05,Road
+SO-10083,Woodie Tilte,2021-03-27,Pending,2021-08-06,Flight
+SO-10088,Cole Fothergill,2021-06-03,Delivery Outstanding,2021-08-04,Road
+SO-10182,Madlen Cranshaw,2021-01-26,Draft,2021-08-06,Local
+SO-10115,Ilise Rawsthorne,2021-03-24,Draft,2021-08-07,Local
+SO-10076,Kristoforo Scala,2020-09-23,Invoice Sent,2021-08-06,Road
+SO-10087,Alex Shivell,2020-10-14,Pending,2021-08-11,Road
+SO-10165,Gunilla Carmody,2021-05-21,Draft,2021-08-09,Road
+SO-10156,Connor Anger,2020-08-29,Invoice Sent,2021-08-07,Road
+SO-10144,Archibold Jeannesson,2020-11-13,Pending,2021-08-05,Local
+SO-10186,Caitrin Shackle,2021-03-30,Draft,2021-08-06,Flight
+SO-10061,Kevin Penn,2020-10-16,Invoice Sent,2021-08-10,Flight
+SO-10189,Drona Callacher,2021-04-29,Pending,2021-08-10,Flight
+SO-10132,Ring Minchell,2020-09-16,Pending,2021-08-11,Road
+SO-10029,Edee Forkan,2021-06-01,Draft,2021-08-04,Flight
+SO-10051,Brandais Batters,2021-01-20,Invoice Sent,2021-08-11,Flight
+SO-10009,Rivalee Waind,2020-10-04,Pending,2021-08-04,Road
+SO-10188,Arte Skahill,2020-08-15,Pending,2021-08-08,Road
+SO-10107,Mara Lackham,2021-01-23,Draft,2021-08-05,Road
+SO-10063,Britta Highman,2021-02-27,Draft,2021-08-04,Flight
+SO-10033,Bethanne Stickney,2020-08-29,Delivery Outstanding,2021-08-06,Road
+SO-10035,Des Acedo,2020-10-19,Pending,2021-08-10,Local
+SO-10146,Malena Buddington,2021-07-13,Invoice Sent,2021-08-04,Flight
+SO-10004,Rosella Ehrat,2021-04-16,Pending,2021-08-04,Road
+SO-10180,Rex Beneze,2021-02-25,Draft,2021-08-07,Road
+SO-10190,Jermaine Biasi,2021-06-24,Pending,2021-08-07,Local
+SO-10150,Diane Van Oort,2020-08-11,Pending,2021-08-07,Road
+SO-10031,Valentino Reubens,2020-10-09,Delivery Outstanding,2021-08-07,Local
+SO-10142,Jocelyne Pepon,2021-05-30,Draft,2021-08-06,Local
+SO-10124,Ruthe De Lorenzo,2021-01-21,Confirmed,2021-08-11,Flight
+SO-10159,Rutger Chiplen,2021-07-13,Pending,2021-08-04,Flight
+SO-10118,Codee Merit,2020-11-18,Draft,2021-08-07,Road
+SO-10192,Terrye Jacqueminet,2021-08-01,Draft,2021-08-10,Flight
+SO-10008,Christine Hubert,2021-07-05,Draft,2021-08-09,Road
+SO-10041,Gaven Skowcraft,2020-10-13,Pending,2021-08-11,Flight
+SO-10178,Marcella Tofanini,2020-09-05,Draft,2021-08-07,Road
+SO-10098,Kellyann Ferretti,2020-09-29,Delivery Outstanding,2021-08-05,Flight
+SO-10067,Nev Vick,2020-09-08,Delivery Outstanding,2021-08-06,Flight
+SO-10162,Hanna Patry,2020-11-13,Pending,2021-08-11,Flight
+SO-10085,Lesya Matteuzzi,2021-04-29,Pending,2021-08-10,Flight
+SO-10025,Noble Bernuzzi,2021-01-20,Delivery Outstanding,2021-08-07,Flight
+SO-10074,Dolf Pattison,2021-07-06,Confirmed,2021-08-09,Local
+SO-10017,Gwenette Riddles,2020-09-20,Invoice Sent,2021-08-06,Flight
+SO-10155,Susanetta Antowski,2020-10-21,Pending,2021-08-04,Local
